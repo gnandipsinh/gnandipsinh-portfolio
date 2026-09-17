@@ -1,52 +1,43 @@
-# GOHIL GNANDIPSINH — Luxury Portfolio
+# Gohil Gnandipsinh — Portfolio
 
-Frontend-only luxury portfolio built with React, TypeScript, Vite, Tailwind CSS, React Icons and Framer Motion.
+A modern responsive developer portfolio showcasing my skills, projects, education, and Full Stack Web Development experience.
 
-## Run locally
+## 🌐 Live Portfolio
 
-```bash
-npm install
-npm run dev
-```
+https://gnandipsinh-portfolio.vercel.app/
 
-Then open the local URL shown by Vite.
+## 👨‍💻 Developer
 
-## Production build
+**Gohil Gnandipsinh**
 
-```bash
-npm run build
-npm run preview
-```
+- Full Stack Developer
+- BCA Student — MKBU, Bhavnagar
 
-## Add real project links
+## 🛠️ Technologies
 
-Edit:
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 5
+- React
+- TypeScript
+- Node.js
+- Supabase
+- Git & GitHub
 
-`src/data/portfolio.ts`
+## 📂 Featured Projects
 
-For each project, set:
+### Vehicle Management System
+Node.js + Supabase based vehicle/trip management system with income, expenses, diesel, driver payment, EMI and profit tracking.
 
-- `liveUrl`
-- `githubUrl`
+### JavaScript Quiz Application
+Responsive JavaScript quiz application with timer, score tracking and result screen.
 
-Empty values automatically hide the corresponding buttons.
+### Digital Agency Website
+Modern responsive digital agency website built using HTML5, CSS3 and Bootstrap 5.
 
-## Deployment
+## 🔗 Links
 
-This project is ready for Vercel, Netlify or GitHub Pages-style static hosting.
-
-For Vercel/Netlify, the build command is:
-
-```bash
-npm run build
-```
-
-Output directory:
-
-```text
-dist
-```
-
-## Source content
-
-Portfolio text is based on the supplied resume. No personal photograph is used.
+- Portfolio: https://gnandipsinh-portfolio.vercel.app/
+- GitHub: https://github.com/gnandipsinh
+- LinkedIn: https://linkedin.com/in/gnandipsinh-gohil
